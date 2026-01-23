@@ -1,0 +1,7 @@
+{
+  "name": "Lunar Chronos v4",
+  "description": "A high-fidelity, scientifically grounded lunar exploration tool harnessing NASA's Dial-A-Moon API. Features deep-space and regolith-inspired visual themes, time-travel capabilities, and detailed astronomical data visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
